@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.1
+Name=stats
+Comment=generated program
+Exec=/usr/bin/gnome-terminal -e  /usr/local/bin/stats
+Icon=/home/yuxuan/Pictures/open-source.png
+Terminal=true
+Type=Application
+Categories=Utility;Application;
